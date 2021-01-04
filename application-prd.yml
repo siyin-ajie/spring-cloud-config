@@ -1,5 +1,5 @@
 data:
-  env: config-eureka
+  env: application-prd900
   user:
     username: eureka-client-user-master
     password: 123456
