@@ -1,0 +1,5 @@
+data:
+  env: application-dev
+  user:
+    username: eureka-server-user
+    password: 123456
